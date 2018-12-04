@@ -8,6 +8,13 @@
   <name>KosherJava Binding</name>
   <version>1.5.0</version>
   
-  <author>Eliyahu Hershfeld</author>
+
+  <developers>
+    <developer>
+      <properties>
+        <name>Eliyahu Hershfeld</name>
+      </properties>
+    </developer>
+  </developers>
 
 </project>
